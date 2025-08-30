@@ -2,7 +2,7 @@ This repo is for the term project of E430 Digital Signal Processing.
 
 ## **Overview**  
 This project centers on the exploration of dual-tone multi-frequency (DTMF) signaling. Specifically, we intended to implement signal processing techniques in
-MATLAB for the purpose of generating, transmitting, receiving, and decoding audio DTMF signals.For decoding algorithms, we utilized the Spectrogram method and Goertzel
+MATLAB for the purpose of generating, transmitting, receiving, and decoding audio DTMF signals. For decoding algorithms, we utilized the Spectrogram method and Goertzel
 method. According to tests conducted on the decoding methods by altering the period of tone duration and tone rest, we compared these methods. There are two interfaces in this project: the Transmitter and the Receiver.
 
 
