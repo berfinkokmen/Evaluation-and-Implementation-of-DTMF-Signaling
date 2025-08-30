@@ -1,9 +1,14 @@
 This repo is for the term project of E430 Digital Signal Processing.
 
 ## **Overview**  
-This project centers on the exploration of dual-tone multi-frequency (DTMF) signaling. Specifically, we intended to implement signal processing techniques in
-MATLAB for the purpose of generating, transmitting, receiving, and decoding audio DTMF signals.For decoding algorithms, we utilized the Spectrogram method and Goertzel
-method. According to tests conducted on the decoding methods by altering the period of tone duration and tone rest, we compared these methods. There are two interfaces in this project: the Transmitter and the Receiver.
+This project has two parts. 
+**In the first part**, a designed MATLAB-based graphical user interface (GUI) captures and processes audio data from a microphone or
+existing files and offers the unique capability of generating time-domain signals through mathematical expressions. The user-friendly GUI facilitates parameter adjustments during
+data acquisition, generation, and spectrogram analysis, emphasizing the importance of spectrogram insights into temporal and frequency characteristics.
+
+**The second part** centers on the exploration of dual-tone multi-frequency (DTMF) signaling. Specifically, we intended to implement signal processing techniques in
+MATLAB for the purpose of generating, transmitting, receiving, and decoding audio DTMF signals. For decoding algorithms, we utilized the Spectrogram method and Goertzel
+method. According to tests conducted on the decoding methods by altering the period of tone duration and tone rest, we compared these methods.
 
 
 ## **The Encoder**
@@ -40,7 +45,8 @@ Spectrogram and Goertzel Methods are used. The comparison of these methods are e
 
 
 ## Final Report
-- [Project Final Report (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/430report.pdf)
+- [Project Report Part 1 (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/430report.pdf)
+- [Project Report Part 2 (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/430report.pdf)
   
 ## Project Group Members
 Humeyra Bodur, Berfin Kokmen.
