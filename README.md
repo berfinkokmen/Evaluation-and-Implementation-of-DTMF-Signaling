@@ -45,8 +45,8 @@ Spectrogram and Goertzel Methods are used. The comparison of these methods are e
 
 
 ## Final Report
-- [Project Report Part 1 (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/430report.pdf)
-- [Project Report Part 2 (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/430report.pdf)
+- [Project Report Part 1 (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/Part1report.pdf)
+- [Project Report Part 2 (PDF)](https://github.com/berfinkokmen/Evaluation-and-Implementation-of-DTMF-Signaling/blob/main/Part2report.pdf)
   
 ## Project Group Members
 Humeyra Bodur, Berfin Kokmen.
